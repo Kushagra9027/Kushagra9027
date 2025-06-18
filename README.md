@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kushagra9027
-- 👀 I’m interested in AI/ML,WEB-DEV
+- 👀 I’m interested in AI/ML,WEB-DEV,DSA
 - 🌱 I’m currently learning Java,C++(revising),python(revising),PyQt5
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me ...
